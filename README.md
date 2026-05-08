@@ -1,4 +1,4 @@
-$git clone https://github.com/Lingaiahthammisetti/9.8.k8s-Helm-Nginx.git
+$git clone https://github.com/rajalingarao/9.8.k8s-Helm-Nginx.git
 
 $cd 9.8.k8s-Helm-Nginx
 
